@@ -1,2 +1,13 @@
 D:\MY PROJECT_OFFICE PC\DropBoxFileManager\DropBoxFileManager\DropBoxFileManager\bin\Debug\DropBoxFileManager.exe.config
 D:\MY PROJECT_OFFICE PC\MyDropBoxFileManager\DropBoxFileManager\bin\Debug\DropBoxFileManager.exe.config
+D:\MY PROJECT_OFFICE PC\MyDropBoxFileManager\DropBoxFileManager\bin\Debug\DropBoxFileManager.exe
+D:\MY PROJECT_OFFICE PC\MyDropBoxFileManager\DropBoxFileManager\bin\Debug\DropBoxFileManager.pdb
+D:\MY PROJECT_OFFICE PC\MyDropBoxFileManager\DropBoxFileManager\bin\Debug\Dropbox.Api.dll
+D:\MY PROJECT_OFFICE PC\MyDropBoxFileManager\DropBoxFileManager\bin\Debug\Newtonsoft.Json.dll
+D:\MY PROJECT_OFFICE PC\MyDropBoxFileManager\DropBoxFileManager\bin\Debug\Dropbox.Api.xml
+D:\MY PROJECT_OFFICE PC\MyDropBoxFileManager\DropBoxFileManager\bin\Debug\Newtonsoft.Json.xml
+D:\MY PROJECT_OFFICE PC\MyDropBoxFileManager\DropBoxFileManager\obj\Debug\DropBoxFileManager.csprojResolveAssemblyReference.cache
+D:\MY PROJECT_OFFICE PC\MyDropBoxFileManager\DropBoxFileManager\obj\Debug\DropBoxFileManager.Properties.Resources.resources
+D:\MY PROJECT_OFFICE PC\MyDropBoxFileManager\DropBoxFileManager\obj\Debug\DropBoxFileManager.csproj.GenerateResource.Cache
+D:\MY PROJECT_OFFICE PC\MyDropBoxFileManager\DropBoxFileManager\obj\Debug\DropBoxFileManager.exe
+D:\MY PROJECT_OFFICE PC\MyDropBoxFileManager\DropBoxFileManager\obj\Debug\DropBoxFileManager.pdb
